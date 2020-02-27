@@ -1,0 +1,31 @@
+.container{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    
+}
+.container-categories h1{
+text-align: center;
+}
+
+.navbar-nav{
+    font-size: 25px;
+}
+.text-align{
+    align-content: center;
+}
+.bg-banner{
+    background-image: url(images/banner-products/header-bg.png);
+}
+.buy-now-button{
+    background-color: blanchedalmond;
+    color: black
+    border: none;
+    border-radius: 10px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightslategray;
+    border-radius: 20px;
+}
